@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<!-- ***************1*****************-->
+<Line>
+<Area value="2565"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/> <!-- *****10***** -->
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="5"/><!-- *****15***** -->
+</Line>
+<!-- ***************2*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/> <!-- *****10***** -->
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************3*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/> <!-- *****10***** -->
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************4*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2565"/>//2560+	6*16+ 5
+<Area value="1541"/>
+<Area value="1653"/>
+<Area value="1653"/>
+<Area value="16"/>
+<Area value="1653"/>
+<Area value="1653"/> <!-- *****10***** -->
+<Area value="1541"/>
+<Area value="5"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************5*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/> <!-- *****10***** -->
+<Area value="16"/>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************6*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/>
+<Area value="64"/>
+<Area value="1733"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="1733"/> <!-- *****10***** -->
+<Area value="64"/>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************7*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/> <!-- *****10***** -->
+<Area value="16"/>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************8*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/>
+<Area value="1733"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/> <!-- *****10***** -->
+<Area value="1733"/>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************9*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/> <!-- *****10***** -->
+<Area value="16"/>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************10*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/>
+<Area value="64"/>
+<Area value="1733"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="1733"/> <!-- *****10***** -->
+<Area value="64"/>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************11*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/>
+<Area value="16"/>
+<Area value="64"/> <!-- *****10***** -->
+<Area value="16"/>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************12*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="3845"/>
+<Area value="1541"/>
+<Area value="1653"/>
+<Area value="1653"/>
+<Area value="16"/>
+<Area value="1653"/>
+<Area value="1653"/> <!-- *****10***** -->
+<Area value="1541"/>
+<Area value="1285"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************13*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/> <!-- *****10***** -->
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************14*****************-->
+<Line>
+<Area value="2309"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/> <!-- *****10***** -->
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="128"/>
+<Area value="2309"/><!-- *****15***** -->
+</Line>
+<!-- ***************15*****************-->
+<Line>
+<Area value="3845"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/> <!-- *****10***** -->
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1541"/>
+<Area value="1285"/><!-- *****15***** -->
+</Line>
+</Map>
